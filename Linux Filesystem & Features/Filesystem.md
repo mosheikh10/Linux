@@ -12,11 +12,11 @@ The Linux filesystem is how files and directories are organised. Everything in L
 
 /etc → Configuration files for the system
 
-/var → Variable files (logs, spool, etc.)
-/tmp → Temporary files
-/usr → User programs and libraries
-/dev → Devices (like USB, hard drives)
-/proc → Information about running processes
+- /var → Variable files (logs, spool, etc.)
+- /tmp → Temporary files
+- /usr → User programs and libraries
+- /dev → Devices (like USB, hard drives)
+- /proc → Information about running processes
 
 # 📑 Important File Types
 Regular file (-) → Normal text, data, or program file
