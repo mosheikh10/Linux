@@ -4,12 +4,9 @@ This repository is dedicated to documenting my path in learning the Fundamentals
 # What’s Inside 📂
 
 # 📝 Beginner-Friendly Notes
-
 Step-by-step notes covering key Linux topics such as:
-- Setting up and running Linux on a Virtual Machine
 - Navigating the filesystem with basic commands
 - File and directory management
-- Understanding and modifying permissions
 - Useful shortcuts and tricks I’ve picked up along the way
 
 # 🎮 Practical Challenges
