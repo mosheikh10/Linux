@@ -3,10 +3,15 @@
 The Linux filesystem is how files and directories are organised. Everything in Linux is treated as a file (even devices and processes).
 
 # 📂 Filesystem Basics
+
 / → Root directory (the starting point of everything)
+
 /home → Stores user files and folders (/home/momo)
+
 /bin → Basic commands and programs (like ls, cp, mv)
+
 /etc → Configuration files for the system
+
 /var → Variable files (logs, spool, etc.)
 /tmp → Temporary files
 /usr → User programs and libraries
